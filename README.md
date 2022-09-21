@@ -1,4 +1,4 @@
-# paradigmas-funcionales
+# Paradigmas funcionales
 Conjunto de paradigmas funcionales para uso en el **Centro de Investigación en Imágenes por Resonancia Mágnetica** de la facultad de medicina de la Universidad de Antioquia, creados por el equipo de neuroingeniería del Grupo en Neuropsicologia y Conducta - [GRUNECO](https://www.udea.edu.co/wps/portal/udea/web/inicio/investigacion/grupos-investigacion/ciencias-medicas-salud/neuropsicologia-conducta).
 
 Los paradigmas están construidos con la herramienta [psychopy](https://www.psychopy.org/).
