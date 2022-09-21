@@ -1,5 +1,5 @@
 # paradigmas-funcionales
-Conjunto de paradigmas funcionales para uso en el **Centro de Resonancia Magnética** de la Universidad de Antioquia y Hospital Alma Máter de Antioquia, creados por el equipo de neuroingeniería del Grupo en Neuropsicologia y Conducta - [GRUNECO](https://www.udea.edu.co/wps/portal/udea/web/inicio/investigacion/grupos-investigacion/ciencias-medicas-salud/neuropsicologia-conducta).
+Conjunto de paradigmas funcionales para uso en el **Centro de Investigación en Imágenes de Resonancia Mágnetica** de la facultad de medicina de la Universidad de Antioquia, creados por el equipo de neuroingeniería del Grupo en Neuropsicologia y Conducta - [GRUNECO](https://www.udea.edu.co/wps/portal/udea/web/inicio/investigacion/grupos-investigacion/ciencias-medicas-salud/neuropsicologia-conducta).
 
 Los paradigmas están construidos con la herramienta [psychopy](https://www.psychopy.org/).
 
